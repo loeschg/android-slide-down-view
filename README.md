@@ -11,6 +11,7 @@ The view is composed of two main elements
 Features:
 --------
 
-* The SlideDownView hides/reveals content as the handle is dragged up and down
-* The SlideDownView animates to an open or closed position upon
+* Makes use of the [NineOldAndroid library](http://nineoldandroids.com/) which means this is compatible as far back as Android 1.0 (only tested on 2.3 up)
+* The Slide Down View hides/reveals content as the handle is dragged up and down
+* The Slide Down View animates to an open or closed position on TOUCH_UP depending on the *last drag direction*
 * Content in the content container does not resize (just gets hidden/revealed)
