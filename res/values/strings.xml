@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Playground</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lectus dui, tincidunt condimentum ornare at, mattis vel urna. Morbi sed massa eu urna placerat ullamcorper. Proin felis orci, tincidunt eget sagittis quis, sollicitudin id nunc. In porttitor erat sed ipsum pulvinar aliquet. Donec sagittis mauris ac tortor laoreet egestas.</string>
+
+</resources>
