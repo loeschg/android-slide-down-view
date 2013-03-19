@@ -1,7 +1,7 @@
 android-slide-down-view
 =======================
 
-This is a proof-of-concept project that demonstrates how to create a view element that can be hidden/shown by tapping and dragging up and down, similar to the Android notification bar.
+This is a proof-of-concept project that demonstrates how to create a view element that can be hidden/shown by tapping and dragging up and down on a handle, similar to the Android notification bar.
 
 The view is composed of two main elements
     
